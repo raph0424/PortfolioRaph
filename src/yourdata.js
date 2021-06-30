@@ -17,63 +17,63 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Raphaël",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Développeur Web",
     //Line 2 For Header
-    "products, brands,",
+    "Node.js, Symfony,",
     //Line 3 For Header
-    "and experience",
+    "et React",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "Étudiant en éternel apprentissage.",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "raphael0424@gmail..com",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Site créé pour une recherche académique", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Développement d'un site PHP/Js destiné à la collecte de statistiques liées aux outils de streaming vod sur internet.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://zupimages.net/up/21/26/ww9o.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://sacha-survey.herokuapp.com//",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "Kalory", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Développement en équipe d'un prototype d'application sous Android Studio permettant de surveiller sa consommation de calories.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
+        "https://zupimages.net/up/21/26/epiq.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/Pixidream/kalory/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "Unstar", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Développement en équipe d'un site sous Angular permettant la visualisation de photos provenant de l'api de la NASA.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://zupimages.net/up/21/26/ufmq.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://github.com/Pixidream/angular-cfa-project/",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "Cooking Blog", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Blog de cuisine temporaire réalisé sous React.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://zupimages.net/up/21/26/td30.png",
       //Project URL - Add Your Project Url Here
       url: "http://chetanverma.com/",
     },
